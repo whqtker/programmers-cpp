@@ -36,5 +36,8 @@
     <ClCompile Include="표 병합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="미로 탈출 명령어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
