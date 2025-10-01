@@ -45,5 +45,8 @@
     <ClCompile Include="코딩 테스트 공부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="두 큐 합 같게 만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
