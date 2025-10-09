@@ -147,8 +147,11 @@
     <ClCompile Include="산 모양 타일링.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="메뉴 리뉴얼.cpp" />
+    <ClCompile Include="순위 검색.cpp" />
     <ClCompile Include="숫자 문자열과 영단어.cpp" />
     <ClCompile Include="신고 결과 받기.cpp" />
+    <ClCompile Include="신규 아이디 추천.cpp" />
     <ClCompile Include="양과 늑대.cpp" />
     <ClCompile Include="양궁대회.cpp" />
     <ClCompile Include="성격 유형 검사하기.cpp" />

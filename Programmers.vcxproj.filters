@@ -90,5 +90,14 @@
     <ClCompile Include="합승 택시 요금.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="순위 검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="메뉴 리뉴얼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="신규 아이디 추천.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
