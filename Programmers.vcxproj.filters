@@ -99,5 +99,17 @@
     <ClCompile Include="신규 아이디 추천.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="경주로 건설.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="보석 쇼핑.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수식 최대화.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="키패드 누르기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -131,6 +131,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="거리두기 확인하기.cpp" />
+    <ClCompile Include="경주로 건설.cpp" />
     <ClCompile Include="광고 삽입.cpp" />
     <ClCompile Include="두 큐 합 같게 만들기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
@@ -141,6 +142,7 @@
     <ClCompile Include="미로 탈출 명령어.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="보석 쇼핑.cpp" />
     <ClCompile Include="사라지는 발판.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -148,6 +150,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="메뉴 리뉴얼.cpp" />
+    <ClCompile Include="수식 최대화.cpp" />
     <ClCompile Include="순위 검색.cpp" />
     <ClCompile Include="숫자 문자열과 영단어.cpp" />
     <ClCompile Include="신고 결과 받기.cpp" />
@@ -163,6 +166,7 @@
     <ClCompile Include="코딩 테스트 공부.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="키패드 누르기.cpp" />
     <ClCompile Include="택배 배달과 수거하기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
