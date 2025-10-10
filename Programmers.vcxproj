@@ -143,6 +143,8 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="보석 쇼핑.cpp" />
+    <ClCompile Include="불량 사용자.cpp" />
+    <ClCompile Include="블록 이동하기.cpp" />
     <ClCompile Include="사라지는 발판.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -162,6 +164,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="주차 요금 계산.cpp" />
+    <ClCompile Include="징검다리 건너기.cpp" />
     <ClCompile Include="카드 짝 맞추기.cpp" />
     <ClCompile Include="코딩 테스트 공부.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
@@ -170,6 +173,7 @@
     <ClCompile Include="택배 배달과 수거하기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="튜플.cpp" />
     <ClCompile Include="파괴되지 않은 건물.cpp" />
     <ClCompile Include="표 병합.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
